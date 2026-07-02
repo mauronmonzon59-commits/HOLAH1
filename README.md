@@ -1,6 +1,6 @@
 [TRABAJO .py](https://github.com/user-attachments/files/29612272/TRABAJO.py)
-# HOLAH1
-SJKGNFLSJRGVBNSLJV
+# mi primer negocio 
+mi primer degocio 
 #perfumeria_urban_nex
     
 def menu(opcion):
